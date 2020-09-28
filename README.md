@@ -6,7 +6,7 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=chatBot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 
 You can find me on \
-[![Instagram][1.2]][1]      [![LinkedIn][2.2]][2]
+[![Instagram][1.2]][1] &nbsp; &nbsp;  [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
