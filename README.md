@@ -1,4 +1,4 @@
-![Header](ugh.png "Header")
+![Header](programmer.gif "Header")
 
 # Hello, folks! <img align="center" src="https://github.com/shreyasY2k/shreyasY2k/blob/master/tenor.gif" width="70px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasY2k&theme=radical" />
