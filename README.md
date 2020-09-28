@@ -5,7 +5,6 @@
 <img align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasY2k&theme=radical" /> \
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=notes-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=chatBot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=todos-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 You can find me on \
