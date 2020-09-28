@@ -9,7 +9,7 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://github.com/shreyasY2k/tree/master/shreyasY2k/insta.jpeg (insta icon without padding)
+[1.2]: https://github.com/shreyasY2k/shreyasY2k/tree/master/insta.jpeg (insta icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
