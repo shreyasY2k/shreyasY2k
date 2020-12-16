@@ -1,8 +1,7 @@
 ![Header](programmer.gif "Header")
 
-# Hello, folks! <img align="center" src="https://github.com/shreyasY2k/shreyasY2k/blob/master/tenor.gif" width="70px">
-
-<img align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasY2k&theme=radical" /> \
+# Hello, folks! <a href="https://dev.to/shreyasy2k"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shreyas Mathur's DEV Profile" height="30" width="30"></a>
+<img align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasY2k&theme=radical" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=notes-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=chatBot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=todos-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
