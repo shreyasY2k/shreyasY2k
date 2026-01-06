@@ -141,7 +141,7 @@ Result-oriented Senior Software Engineer with **3+ years** of experience special
 
 <div align="center">
 
-**"Building scalable AI-driven solutions that solve real-world healthcare challenges"**
+**"Building scalable AI-driven solutions that solve real-world challenges"**
 
 
 </div>
