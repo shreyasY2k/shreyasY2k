@@ -1,13 +1,10 @@
-# Shreyas Kaushik 
+# Shreyas Kaushik [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-shreyasmk/)
 ## Senior Software Engineer | Backend Infrastructure & Workflow Orchestration
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-shreyasmk/)
-
+*"Building scalable systems that solve real-world problems"*
 </div>
-
----
 
 ### 🚀 About Me
 
@@ -18,7 +15,7 @@ Senior Software Engineer at **IHX - A Perfios Company** with expertise in buildi
 - **Infrastructure Modernization**: Leading Kubernetes implementations and high-availability deployments
 - **Workflow Orchestration**: Building comprehensive document processing pipelines with Netflix Conductor
 - **Monitoring & Observability**: Implementing advanced monitoring solutions with Grafana, Prometheus, and Loki
-- **AI Integration**: Driving AI adoption across 30+ person engineering team
+- **AI Integration**: Driving AI adoption across engineering teams
 
 ### 🛠️ Technical Expertise
 
@@ -96,12 +93,4 @@ Complex workflow orchestration system handling millions of daily operations with
 
 ### 📫 Let's Connect
 
-I'm always interested in discussing backend architecture, infrastructure challenges, and innovative solutions in the healthcare technology space.
-
----
-
-<div align="center">
-
-*"Building scalable systems that solve real-world problems"*
-
-</div>
+I'm always interested in discussing backend architecture, infrastructure challenges, and innovative solutions in any technology space.
