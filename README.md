@@ -1,44 +1,109 @@
-![Header](programmer.gif "Header")
+# Shreyas Kaushik 
+## Senior Software Engineer | Backend Infrastructure & Workflow Orchestration
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-m-k-b213771a4/)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shreyasy2k)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shreyas_mathur_kaushik/)
 
+</div>
 
+---
 
-# Hello, folks! <a href="https://dev.to/shreyasy2k"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shreyas Mathur's DEV Profile" height="30" width="30"></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasY2k&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=Collaborative-Compiler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=compilor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=online-voting&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
+### 🚀 About Me
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=notes-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=chatBot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyasY2k&repo=todos-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
+Senior Software Engineer at **IHX - A Perfios Company** with expertise in building scalable backend infrastructure and workflow orchestration systems. I specialize in transforming technical infrastructure and driving AI adoption across engineering teams.
 
-You can find me on \
-[![Instagram][1.2]][1] &nbsp; &nbsp;  [![LinkedIn][2.2]][2]
+### 💼 Current Focus
 
-<!-- Icons -->
+- **Infrastructure Modernization**: Leading Kubernetes implementations and high-availability deployments
+- **Workflow Orchestration**: Building comprehensive document processing pipelines with Netflix Conductor
+- **Monitoring & Observability**: Implementing advanced monitoring solutions with Grafana, Prometheus, and Loki
+- **AI Integration**: Driving AI adoption across 30+ person engineering team
 
-[1.2]: https://github.com/shreyasY2k/shreyasY2k/blob/master/Instagram.png (insta icon without padding)
-[2.2]: https://github.com/shreyasY2k/shreyasY2k/blob/master/linkedin.png (LinkedIn icon without padding)
+### 🛠️ Technical Expertise
 
-<!-- Links to your social media accounts -->
+**Backend & Infrastructure**
+- **Languages**: Java, Python, JavaScript, Go
+- **Orchestration**: Netflix Conductor, Kubernetes, Docker
+- **Databases**: MongoDB, Redis, PostgreSQL
+- **Cloud**: AWS (EKS, ElastiCache, EC2), Azure
+- **Monitoring**: Grafana, Prometheus, Loki, ELK Stack
 
-[1]: https://instagram.com/shreyas_mathur_kaushik/
-[2]: https://www.linkedin.com/in/shreyas-m-k-b213771a4/
+**Architecture & Design**
+- Microservices Architecture
+- High Availability Systems
+- Document Processing Pipelines
+- Workflow Orchestration Engines
+- Performance Optimization
 
+### 🏗️ Key Projects
 
-<!--
-**shreyasY2k/shreyasY2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Enterprise Document Processing Platform
+Complex workflow orchestration system handling millions of daily operations with:
+- Multi-stage extraction pipelines with intelligent fallback mechanisms
+- Dynamic task generation and routing logic for medical bill processing
+- Comprehensive monitoring with waterfall visualizations and metrics tracking
 
-Here are some ideas to get you started:
+#### High-Availability Infrastructure
+- Redis Sentinel clustering in Kubernetes with zone-aware deployments
+- Zookeeper clustering for distributed coordination
+- Multi-AZ persistent storage configurations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Monitoring & Observability Solutions
+- Custom Grafana dashboards for workflow visualization
+- Prometheus metrics collection and alerting
+- Loki log aggregation for distributed systems
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<!-- Activity Graph - This one works for you -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyasY2k&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+
+<!-- Simple GitHub Stats -->
+<img src="https://komarev.com/ghpvc/?username=shreyasY2k&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasY2k" />
+
+</div>
+
+### 📈 Programming Languages & Tools
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+</div>
+
+### 🎯 Professional Highlights
+
+- **Infrastructure Transformation**: Successfully migrated legacy systems to Kubernetes-based architecture
+- **Team Mentorship**: Mentoring junior developers and establishing best practices for code quality
+- **Performance Optimization**: Built systems handling millions of operations with high availability
+- **Technology Leadership**: Driving adoption of modern technologies including workflow orchestration and monitoring
+
+### 📫 Let's Connect
+
+I'm always interested in discussing backend architecture, infrastructure challenges, and innovative solutions in the healthcare technology space.
+
+---
+
+<div align="center">
+
+*"Building scalable systems that solve real-world problems"*
+
+</div>
