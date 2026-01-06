@@ -100,7 +100,7 @@ Result-oriented Senior Software Engineer with **3+ years** of experience special
 | Project | Description | Recognition | Links |
 |---------|-------------|-------------|-------|
 | **[Python Spawn](https://github.com/shreyasY2k/python-spawn)** | NPM package bridging Node.js and Python | Python with speed of NodeJS | [![npm](https://img.shields.io/npm/v/python-spawn)](https://www.npmjs.com/package/python-spawn) |
-| **[Secure Files Demo](https://github.com/shreyasY2k/secure-files)** | MFA integration showcase with Keycloak | Technical blog series | [![GitHub](https://img.shields.io/github/stars/shreyasY2k/secure-files)](https://github.com/shreyasY2k/secure-files) |
+| **[Keycloak MFA](https://github.com/shreyasY2k/keycloak-mfa)** | MFA integration showcase with Keycloak | Technical blog series | [![GitHub](https://img.shields.io/github/stars/shreyasY2k/keycloak-mfa)](https://github.com/shreyasY2k/secure-files) |
 | **[Contra Game](https://shreyasy2k.github.io/contra)** | 3D shooter game built in 2 hours with AI assistance | Featured implementation | [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://shreyasy2k.github.io/contra) |
 
 ### 🏗️ **Legacy Projects**
