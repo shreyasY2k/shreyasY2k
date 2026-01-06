@@ -116,9 +116,9 @@ Result-oriented Senior Software Engineer with **3+ years** of experience special
 
 ## 📚 Technical Writing & Knowledge Sharing
 
-- **[Building Custom MFA Plugin for Keycloak](https://dev.to/shreyasy2k)** - SMS, Email & Telegram Integration
-- **[Mastering Multi-Factor Authentication in Keycloak](https://dev.to/shreyasy2k)** - Comprehensive Setup Guide
-- **[Unlocking Seamless Access](https://dev.to/shreyasy2k)** - Centralized User Management with Keycloak
+- **[Building Custom MFA Plugin for Keycloak](https://medium.com/@shreyasmk.mathur/building-a-custom-multi-factor-authentication-mfa-plugin-for-keycloak-sms-email-telegram-152e33f2a02f?source=friends_link&sk=2f4ac75673a9b79536a690880dd3f7c3)** - SMS, Email & Telegram Integration
+- **[Mastering Multi-Factor Authentication in Keycloak](https://medium.com/@shreyasmk.mathur/mastering-multi-factor-authentication-in-keycloak-sms-email-and-totp-setup-guide-957305b92be1?source=friends_link&sk=c8da3df152326b6ef0683533500dc899)** - Comprehensive Setup Guide
+- **[Unlocking Seamless Access](https://medium.com/@shreyasmk.mathur/unlocking-seamless-access-orchestrating-centralized-user-management-with-keycloak-d1c51b13456a?source=friends_link&sk=4cc5452d7d933bfc3ad8e49c3be0be89)** - Centralized User Management with Keycloak
 
 ## 🎓 Education & Certifications
 
