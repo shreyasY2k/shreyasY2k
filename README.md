@@ -1,5 +1,5 @@
 # Shreyas M Kaushik
-## Senior Software Engineer | AI/ML Systems & Workflow Orchestration
+## Senior Software Engineer | Agentic AI & Cloud-Native Systems
 
 <div align="center">
 
@@ -14,30 +14,33 @@
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-Result-oriented Senior Software Engineer with **3+ years** of experience specializing in **AI/ML systems** and **workflow orchestration**. Proven track record of building scalable applications that process **millions of requests daily** using Netflix Conductor and modern microservices architecture. Expert in architecting cloud-native solutions with demonstrated success in performance optimization, achieving **40% reduction in processing time** and **96% model accuracy improvements**.
+Senior Software Engineer with 4+ years building AI/ML systems, agentic platforms, and cloud-native infrastructure at scale. Currently at **Mphasis Applied AI**, shipping an on-premises agentic development platform and an enterprise LLM gateway for BFSI clients. I like owning systems end-to-end — from architecture to on-call.
 
-## 💼 Current Role & Impact
+---
 
-**Senior Software Engineer** at **IHX - A Perfios Company** | *Jan 2024 - Present*
+## 💼 Current Role
 
-### 🎯 Key Achievements
-- **Netflix Conductor Orchestration**: Architected comprehensive workflow orchestration for document processing pipelines with **40% processing time reduction**
-- **High-Performance Persistence**: Built TypeORM-based persistence engine reducing query time from **1-2 seconds to 10-15ms**
-- **Scale Achievement**: Developed status notification service processing **10+ million messages daily**
-- **Business Impact**: Improved "complete claim submissions on first instance" from **23% to 77%** within 2 weeks
-- **AI/ML Enhancement**: Increased document classification model accuracy from **64% to 96%**
+**Senior Software Engineer, Applied AI** at **Mphasis** | *Feb 2026 - Present*
 
-## 🛠️ Technical Expertise
+### What I'm building
 
-### **Core Technologies**
+**ATOM** — An on-premises agentic development & deployment platform for financial services. Teams write agents via SDK and ship with a single command. Infrastructure, compliance, guardrails, and LLM routing are fully abstracted. Every LLM call flows through **GATE** — JWT auth, OPA policy, rate limits, and an immutable audit log — so no agent ever touches the outside world directly.
+
+**NexusAI** — A multi-tenant LLM gateway built on LiteLLM. Per-tenant budget governance, PII-aware routing, and audit logging with compliance coverage for PCI-DSS, FIPS, GDPR, and DORA.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
@@ -45,9 +48,9 @@ Result-oriented Senior Software Engineer with **3+ years** of experience special
 <div align="center">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 
 </div>
 
@@ -57,11 +60,22 @@ Result-oriented Senior Software Engineer with **3+ years** of experience special
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
-### **Monitoring & Security**
+### **Databases & Messaging**
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+</div>
+
+### **Observability & Security**
 <div align="center">
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -70,15 +84,7 @@ Result-oriented Senior Software Engineer with **3+ years** of experience special
 
 </div>
 
-### **Databases & Orchestration**
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Netflix Conductor](https://img.shields.io/badge/Netflix_Conductor-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-
-</div>
+---
 
 ## 📊 GitHub Activity
 
@@ -88,60 +94,46 @@ Result-oriented Senior Software Engineer with **3+ years** of experience special
 
 </div>
 
-## 🌟 Featured Projects
+---
 
-### 🚀 **Production Systems**
-| Project | Description | Impact | Tech Stack |
-|---------|-------------|---------|------------|
-| **Document Intelligence Platform** | Comprehensive document processing solution for India's largest health benefits administrator | 23% → 77% complete claim submissions | Netflix Conductor, FastAPI, AWS |
-| **Persistence Engine** | High-performance single-layer persistence solution | 1-2s → 10-15ms query time | TypeORM, Node.js, TypeScript |
-| **Status Notification Service** | High-throughput message processing system | 10M+ messages/day | SNS, AWS, Microservices |
+## 🌟 Projects
 
-### 💡 **Open Source & Personal Projects**
-| Project | Description | Recognition | Links |
-|---------|-------------|-------------|-------|
-| **[Python Spawn](https://github.com/shreyasY2k/python-spawn)** | NPM package bridging Node.js and Python | Python with speed of NodeJS | [![npm](https://img.shields.io/npm/v/python-spawn)](https://www.npmjs.com/package/python-spawn) |
-| **[Keycloak MFA](https://github.com/shreyasY2k/keycloak-mfa)** | MFA integration showcase with Keycloak | Technical blog series | [![GitHub](https://img.shields.io/github/stars/shreyasY2k/keycloak-mfa)](https://github.com/shreyasY2k/secure-files) |
-| **[Contra Game](https://shreyasy2k.github.io/contra)** | 3D shooter game built in 2 hours with AI assistance | Featured implementation | [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://shreyasy2k.github.io/contra) |
+### 💡 Open Source
+| Project | Description | Links |
+|---------|-------------|-------|
+| **[Python Spawn](https://github.com/shreyasY2k/python-spawn)** | NPM package bridging Node.js and Python — 500+ weekly downloads | [![npm](https://img.shields.io/npm/v/python-spawn)](https://www.npmjs.com/package/python-spawn) |
+| **[Secure Files Demo](https://github.com/shreyasY2k/secure-files)** | MFA + RBAC demo with Keycloak, self-signed certs, and role-based access | [![GitHub](https://img.shields.io/github/stars/shreyasY2k/secure-files)](https://github.com/shreyasY2k/secure-files) |
+| **[Contra](https://shreyasy2k.github.io/contra)** | 3D run & gun shooter built in 2 hours with AI assistance | [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://shreyasy2k.github.io/contra) |
 
-### 🏗️ **Legacy Projects**
+### 🏗️ Earlier Work
 <details>
-<summary><strong>Click to view earlier projects</strong></summary>
+<summary><strong>Click to expand</strong></summary>
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Collaborative Compiler](https://github.com/shreyasY2k/Collaborative-Compiler)** | Multi-user code compilation platform | NodeJS, HTML, CSS, WebSockets |
+| **[Collaborative Compiler](https://github.com/shreyasY2k/Collaborative-Compiler)** | Multi-user code compilation platform | Node.js, WebSockets |
 | **[Online Voting System](https://github.com/shreyasY2k/online-voting)** | Secure digital voting platform | PHP |
 
 </details>
 
-## 📚 Technical Writing & Knowledge Sharing
+---
 
-- **[Building Custom MFA Plugin for Keycloak](https://medium.com/@shreyasmk.mathur/building-a-custom-multi-factor-authentication-mfa-plugin-for-keycloak-sms-email-telegram-152e33f2a02f?source=friends_link&sk=2f4ac75673a9b79536a690880dd3f7c3)** - SMS, Email & Telegram Integration
-- **[Mastering Multi-Factor Authentication in Keycloak](https://medium.com/@shreyasmk.mathur/mastering-multi-factor-authentication-in-keycloak-sms-email-and-totp-setup-guide-957305b92be1?source=friends_link&sk=c8da3df152326b6ef0683533500dc899)** - Comprehensive Setup Guide
-- **[Unlocking Seamless Access](https://medium.com/@shreyasmk.mathur/unlocking-seamless-access-orchestrating-centralized-user-management-with-keycloak-d1c51b13456a?source=friends_link&sk=4cc5452d7d933bfc3ad8e49c3be0be89)** - Centralized User Management with Keycloak
+## 📚 Technical Writing
 
-## 🎓 Education & Certifications
+- **[Building a Custom MFA Plugin for Keycloak](https://medium.com/@shreyasmk.mathur/building-a-custom-multi-factor-authentication-mfa-plugin-for-keycloak-sms-email-telegram-152e33f2a02f?sk=2f4ac75673a9b79536a690880dd3f7c3)** — SMS, Email & Telegram Integration
+- **[Mastering Multi-Factor Authentication in Keycloak](https://medium.com/@shreyasmk.mathur/mastering-multi-factor-authentication-in-keycloak-sms-email-and-totp-setup-guide-957305b92be1?sk=c8da3df152326b6ef0683533500dc899)** — SMS, Email, and TOTP Setup Guide
+- **[Unlocking Seamless Access](https://medium.com/@shreyasmk.mathur/unlocking-seamless-access-orchestrating-centralized-user-management-with-keycloak-d1c51b13456a)** — Centralized User Management with Keycloak
 
-**Bachelor of Engineering - Information Science** | *Sapthagiri College of Engineering* | **CGPA: 8.5** | *2018-2022*
+---
 
-**Professional Certifications:**
-- ☁️ Architecting with Compute Engine (Coursera Specialization)
-- 🟨 The Modern Javascript Bootcamp (Udemy)
+## 🎓 Education
 
-## 📈 Professional Highlights
-
-- 🏗️ **Infrastructure Transformation**: Led Kubernetes and AWS-based architecture design
-- 👥 **Team Leadership**: Mentoring junior developers and driving technical initiatives
-- 🤖 **AI/ML Integration**: Expert in model deployment, API wrapping, and classification pipelines
-- 📊 **Performance Optimization**: Consistent track record of significant performance improvements
-- 🔐 **Security Implementation**: Advanced authentication and authorization systems
+**B.E. Information Science** | Sapthagiri College of Engineering | CGPA: 8.5 | 2018–2022
 
 ---
 
 <div align="center">
 
-**"Building scalable AI-driven solutions that solve real-world challenges"**
-
+*Building systems where agents do the work and humans stay in control.*
 
 </div>
